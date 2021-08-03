@@ -21,6 +21,11 @@ books = [
      'author': 'Samuel R. Delany',
      'first_sentence': 'to wound the autumnal city.',
      'published': '1975'}
+    {'id': 3,
+     'title': 'The Sun Also Rises',
+     'author': 'Ernest Hemingway',
+     'first_sentence': 'Robert Cohn was once middleweight boxing champion of Princeton.',
+     'published': '1975'}
 ]
 
 
